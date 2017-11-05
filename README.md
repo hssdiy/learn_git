@@ -15,3 +15,6 @@ is my understanding correct?
 
 yes, my understanding is correct. upstream is the alias of the source repository (https://github.com/stephenchenxj/learn_git) where the current remote repository (https://github.com/hssdiy/learn_git) is forked from.
 either upstream, or the full url address could be used to tell git where to pull the code.
+
+updated in branch_test.
+
