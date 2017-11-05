@@ -18,3 +18,4 @@ either upstream, or the full url address could be used to tell git where to pull
 
 updated in branch_test.
 
+test user stephenchenxj on the raspberry pi system (hssdiy SSH key is stored on raspberry pi)
