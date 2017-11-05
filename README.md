@@ -19,3 +19,5 @@ either upstream, or the full url address could be used to tell git where to pull
 updated in branch_test.
 
 test user stephenchenxj on the raspberry pi system (hssdiy SSH key is stored on raspberry pi)
+
+created a branch_local_remote_test branch locally. can't see this branch in remote yet 
