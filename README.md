@@ -19,5 +19,14 @@ either upstream, or the full url address could be used to tell git where to pull
 updated in branch_test.
 
 test user stephenchenxj on the raspberry pi system (hssdiy SSH key is stored on raspberry pi)
+test conclusion: if the hssdiy account setting does not give others Push Access, then they can't push their changes into this repository
 
 created a branch_local_remote_test branch locally. can't see this branch in remote yet 
+
+can't push local branch branch_local_remote_test to the remote master branch using 'git push origin/master branch_local_remote_test'
+
+the correct command is 'git push origin branch_local_remote_test'. 
+
+after this, a branch: branch_local_remote_test is created in the remote repository.
+
+  
