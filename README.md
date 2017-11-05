@@ -7,3 +7,5 @@ changed by user B
 changed by user B as well
 
 test upstream (my understanding: upstream is the alias of the base repository)
+
+create some conflicts here
